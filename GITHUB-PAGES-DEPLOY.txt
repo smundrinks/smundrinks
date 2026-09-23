@@ -1,0 +1,6 @@
+1. Create a GitHub repository named smundrinks.
+2. Upload everything from this folder to the repository root.
+3. GitHub -> Settings -> Pages.
+4. Source: Deploy from a branch.
+5. Branch: main / root.
+6. Save and wait for the Pages URL.
